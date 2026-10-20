@@ -1,4 +1,5 @@
 # RAG Telecom Chatbot
+Codebasics [Agentic AI Crash Course using LangChain | LangChain Crash Course](https://www.youtube.com/watch?v=D74el9mvNak)
 
 A Retrieval-Augmented Generation (RAG) customer care chatbot for telecom support. It answers questions about mobile connectivity, billing, SIM issues, and roaming by retrieving relevant context from three knowledge sources and generating responses with Qwen3-32B via Groq.
 
